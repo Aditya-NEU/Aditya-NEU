@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aditya Deshpande</h1>
 <h3 align="center">Masters of Science in Computer Systems Engineering, Northeastern University</h3>
 
-- 🌱 I’m currently learning **React framework,**
+- 🌱 I’m currently learning **React framework and dabbling with GCP cloud services**
 
 - 💬 Ask me about **Angular, AWS, DevOps, JavaScript, Relational Databases**
 

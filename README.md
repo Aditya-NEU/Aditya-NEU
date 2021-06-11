@@ -14,3 +14,9 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aditya-neu&show_icons=true&locale=en&layout=compact" alt="aditya-neu" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aditya-neu&show_icons=true&locale=en" alt="aditya-neu" /></p>
+
+
+
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=3gfl6pe15xabpitw1ht6b9y9n)
+
+

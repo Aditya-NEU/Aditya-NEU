@@ -17,6 +17,5 @@
 
 
 
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=3gfl6pe15xabpitw1ht6b9y9n)
 
 

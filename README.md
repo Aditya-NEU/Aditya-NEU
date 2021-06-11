@@ -16,7 +16,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aditya-neu&show_icons=true&locale=en" alt="aditya-neu" /></p>
 
 <!-- Markdown -->
-![Jokes Card](https://readme-jokes.vercel.app/api)
+<p>&nbsp;<img align="center"![Jokes Card](https://readme-jokes.vercel.app/api)</p>
+
 
 
 

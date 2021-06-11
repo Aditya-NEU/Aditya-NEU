@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React,**
 
-- 💬 Ask me about **Angular, AWS, DevOps, JavaScript, Relational Databases**
+- 💬 Ask me about **Angular, AWS, DevOps, JavaScript,NodeJS, Relational Databases**
 
 - 📫 How to reach me **deshpande.ad@northeastern.edu**
 
